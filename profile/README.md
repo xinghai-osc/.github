@@ -13,4 +13,5 @@
 |  项目名称   | 编写语言  | 开源协议  | 项目地址  | 项目等级  | 项目状态  |
 |  ----  | ----  | ----  | ----  | ----  | ----  |
 | 闪电机器人  | Python | MIT | [Github](https://github.com/LightningRobot) | 一级 | 重构 |
-| 今日话语  | Python | MIT | [Github](https://github.com/Xinghai-Opensource/TodayDiscourse) | 二级 |正常 |
+| 星海部署  | Python | MIT | [Github](/xinghai-deploy) | 二级 |正常 |
+| 今日话语  | Python | MIT | [Github](/todaydiscourse/) | 二级 |正常 |
