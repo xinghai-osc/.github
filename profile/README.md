@@ -14,6 +14,6 @@
 |  ----  | ----  | ----  | ----  | ----  | ----  |
 | 闪电机器人  | Python | MIT | [Github](https://github.com/LightningRobot) | 一级 | 重构 |
 | ApiCat  | Python | MIT | [Github](https://github.com/xinghai-osc/apicat) | 二级 |正常 |
-| 诗歌时刻  | Python | MIT | [Github](https://github.com/xinghai-osc/poetry-moment) | 二级 |正常 |
+| 诗歌时刻  | Python | Apache Lincese 2.0 | [Github](https://github.com/xinghai-osc/poetry-moment) | 二级 |正常 |
 | 星海部署  | Python | MIT | [Github](https://github.com/xinghai-osc/xinghai-deploy) | 二级 |正常 |
 | 今日话语  | Python | MIT | [Github](https://github.com/xinghai-osc/todaydiscourse/) | 二级 |正常 |
